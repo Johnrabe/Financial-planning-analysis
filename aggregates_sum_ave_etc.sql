@@ -6,3 +6,6 @@ SELECT
    #AVG(salary) AS Average
    ROUND(AVG(salary),2) AS Round
 FROM salaries
+
+
+###test branch out
